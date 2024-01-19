@@ -1,37 +1,12 @@
 # Security Policy
 
-## Supported Versions
-
-We are currently providing security updates to the following http4s core versions: 
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.21.x   | :white_check_mark: |
-| 0.20.x   | :white_check_mark: |
-| 0.19.x   | :x: |
-| 0.18.x   | :x: |
-| < 0.18   | :x: |
-
-For other repos in the http4s org on different release cycles, see their documentation.
+Use Github security reporting. It will promptly be reviewed and adressed accordingly.
+If I have not enabled this for the repository, raise an issue for that, and I will get that done.
+Please do not submit security problems as github issues.
 
 ## Reporting a Vulnerability
 
-We will use [keybase](https://keybase.io) as the vehicle for reporting security issues as that gives us a
-forum to discuss, analyze, and remediate the threat before an exploit is published.
-[Responsible disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) enhances security for the entire community.
+Please adhare to [Responsible disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) which enhances security for the entire community.
 
-If the issue is deemed a vulnerability, we will release a patch version of our software
-and make sure that finds it way to Maven Central before we push the patch to github.
-After the patch is available on Maven Central, we will also provide a [security advisory](https://github.com/http4s/http4s/security/advisories) through github.
-As with every release, the source jars are published to maven central at the same time as the binaries.
-
-We strongly recommend users of our libraries to use [Scala Steward](https://github.com/fthomas/scala-steward) or something similar to 
+I strongly recommend users of my libraries to use [Scala Steward](https://github.com/fthomas/scala-steward) or something similar to 
 automatically receive updates.
-
-### Security Maintainer list:
-
-|name | github | keybase |
-|-----|--------|---------|
-| Ross A. Baker | @rossabaker | @rossabaker|
-| Christopher Davenport | @christopherdavenport | @davenpcm |
-| Erlend Hamnaberg | @hamnis | @hamnis|  
