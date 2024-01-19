@@ -6,7 +6,6 @@ Everyone is expected to follow the [Scala Code of Conduct] when discussing the p
 
 ## Moderation
 
-For any questions, concerns, or moderation requests, please contact a member of the [community staff](https://http4s.org/code-of-conduct/#moderation)
+For any questions, concerns, or moderation requests, please contact me on [Typelevel Discord](https://discord.gg/D9BTYDf), @hamnis
 
-[Scala Code of Conduct]: https://http4s.org/code-of-conduct/
-[Community staff]: https://http4s.org/code-of-conduct/#moderation
+[Scala Code of Conduct]: https://typelevel.org/code-of-conduct
